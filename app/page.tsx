@@ -584,6 +584,17 @@ export default function Home() {
           </div>
         </section>
       ) : null}
+
+      <footer className="mt-6 text-center text-xs text-slate-500">
+        <a
+          className="font-bold underline-offset-4 transition hover:text-teal-800 hover:underline"
+          href="https://github.com/pomhiko/csv-reorder/issues"
+          target="_blank"
+          rel="noreferrer"
+        >
+          不具合・改善要望
+        </a>
+      </footer>
     </main>
   );
 }

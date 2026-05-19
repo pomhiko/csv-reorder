@@ -90,3 +90,9 @@ npm run build
 - Excelファイル対応
 - 複数CSVの一括変換
 - Shopify、楽天、Amazon、倉庫連携向けの形式プリセット
+
+## Feedback
+
+不具合報告・改善要望は GitHub Issues までお願いします。
+
+https://github.com/pomhiko/csv-reorder/issues
